@@ -7,3 +7,62 @@ html {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
 }
+main h1{
+  background-image: url("./../images/apple-pie.jpg");
+  height: 100vh;
+  background-position:top;
+  background-size:auto;
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 200px;
+  padding-top: 860px;
+  padding-left: 760px;
+
+}
+
+body h5{
+  padding-top: 7px;
+  padding-left: 220px;
+  padding-right: 220px; 
+  font-size: 80px;
+}
+
+body p{
+  padding-top: 7px;
+  padding-left: 220px;
+  padding-right: 220px; 
+  font-size: 70px;
+
+}
+body ul > li{
+  list-style: none;
+  padding-left:220px;
+  padding-right: 220px; 
+  font-size: 70px;
+
+}
+.Directions p{
+  padding-left:220px;
+  padding-right: 220px; 
+  font-size: 70px;
+}
+.line{
+  border-top: 5px solid gray;
+  max-width: 2000px;
+  margin-left: 200px;
+  
+  
+}
+#información-de-la-receta{
+  padding-left: 760px;
+  padding-bottom: 70px;
+}
+#tiempo-de-cocción{
+  padding-top: 100px;
+  padding-left: 760px;
+  padding-bottom: 70px;
+}
+
+
+
+
